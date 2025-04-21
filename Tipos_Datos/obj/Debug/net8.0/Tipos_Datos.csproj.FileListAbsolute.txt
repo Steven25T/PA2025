@@ -1,0 +1,14 @@
+C:\Users\Steven\source\repos\Tipos_Datos\bin\Debug\net8.0\Tipos_Datos.exe
+C:\Users\Steven\source\repos\Tipos_Datos\bin\Debug\net8.0\Tipos_Datos.deps.json
+C:\Users\Steven\source\repos\Tipos_Datos\bin\Debug\net8.0\Tipos_Datos.runtimeconfig.json
+C:\Users\Steven\source\repos\Tipos_Datos\bin\Debug\net8.0\Tipos_Datos.dll
+C:\Users\Steven\source\repos\Tipos_Datos\bin\Debug\net8.0\Tipos_Datos.pdb
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.dll
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\refint\Tipos_Datos.dll
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.pdb
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\Tipos_Datos.genruntimeconfig.cache
+C:\Users\Steven\source\repos\Tipos_Datos\obj\Debug\net8.0\ref\Tipos_Datos.dll

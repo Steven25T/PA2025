@@ -1,0 +1,10 @@
+C:\Users\Steven\source\repos\QRfactorizar\bin\Debug\QRfactorizar.exe.config
+C:\Users\Steven\source\repos\QRfactorizar\bin\Debug\QRfactorizar.exe
+C:\Users\Steven\source\repos\QRfactorizar\bin\Debug\QRfactorizar.pdb
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.Form1.resources
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.Properties.Resources.resources
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.exe
+C:\Users\Steven\source\repos\QRfactorizar\obj\Debug\QRfactorizar.pdb
